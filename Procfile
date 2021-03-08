@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run toonup-app.py
+web: sh setup.sh && streamlit run toonup-webapp.py
